@@ -1,0 +1,104 @@
+{
+  "day_start": 540,
+  "day_end": 1140,
+  "activities": [
+    {
+      "id": "memorial",
+      "name": "Mémorial de Caen",
+      "place": [
+        0,
+        6
+      ],
+      "duration": 150,
+      "opens": 570,
+      "closes": 1080,
+      "outdoor": false,
+      "preference": 10,
+      "mandatory": true
+    },
+    {
+      "id": "chateau",
+      "name": "Château de Caen",
+      "place": [
+        3,
+        3
+      ],
+      "duration": 90,
+      "opens": 540,
+      "closes": 1080,
+      "outdoor": true,
+      "preference": 8,
+      "mandatory": false
+    },
+    {
+      "id": "abbaye",
+      "name": "Abbaye aux Hommes",
+      "place": [
+        2,
+        2
+      ],
+      "duration": 75,
+      "opens": 570,
+      "closes": 1080,
+      "outdoor": false,
+      "preference": 8,
+      "mandatory": false
+    },
+    {
+      "id": "marche",
+      "name": "Déjeuner au marché",
+      "place": [
+        3,
+        2
+      ],
+      "duration": 60,
+      "opens": 690,
+      "closes": 840,
+      "outdoor": false,
+      "preference": 6,
+      "mandatory": true
+    },
+    {
+      "id": "jardin",
+      "name": "Jardin des plantes",
+      "place": [
+        2,
+        4
+      ],
+      "duration": 60,
+      "opens": 480,
+      "closes": 1140,
+      "outdoor": true,
+      "preference": 4,
+      "mandatory": false
+    },
+    {
+      "id": "orne",
+      "name": "Balade au bord de l'Orne",
+      "place": [
+        4,
+        1
+      ],
+      "duration": 60,
+      "opens": 0,
+      "closes": 1440,
+      "outdoor": true,
+      "preference": 4,
+      "mandatory": false
+    },
+    {
+      "id": "beaux_arts",
+      "name": "Musée des Beaux-Arts",
+      "place": [
+        3,
+        3
+      ],
+      "duration": 90,
+      "opens": 570,
+      "closes": 1080,
+      "outdoor": false,
+      "preference": 5,
+      "mandatory": false
+    }
+  ]
+}

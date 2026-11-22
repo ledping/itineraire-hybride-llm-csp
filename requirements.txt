@@ -1,0 +1,3 @@
+ortools>=9.10
+# Facultatif, pour l'extraction par LLM hors mode démo :
+# anthropic>=0.40
